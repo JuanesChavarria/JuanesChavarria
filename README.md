@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juan Esteban Chavarría Serna</h1>
-<h3 align="center">Welcome to my little corner of the coding world! I'm constantly seeking new challenges and opportunities to improve my skills in programming, data science, and AI. Join me in my journey to discover the latest trends and technologies, share ideas and insights, and collaborate on exciting projects.</h3>
+<h1 align="center">Hola 👋, Soy Juan Esteban Chavarría Serna</h1>
+<h3 align="center">¡Bienvenido a mi pequeño rincón del mundo de la programación! Estoy constantemente buscando nuevos retos y oportunidades para mejorar mis habilidades en programación, ciencia de datos e IA. Únete a mí en mi viaje para explorar proyectos interesantes y de paso compartir ideas y puntos de vista.</h3>
 
-- 🔭 I’m currently working on **my masters degree thesis**
+- 🔭 Actualmente estoy trabajando en **mi tesis de maestría**.
 
-- 📫 How to reach me **juan.chavarria207@gmail.com**
+- 📫 Como contactarme **juan.chavarria207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
